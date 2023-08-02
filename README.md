@@ -9,7 +9,7 @@ The first strategy we explore revolves around the Simple Moving Average (SMA) in
 To explore the backtested trading strategies and visualize the results, follow these steps:
 
 Clone this repository to your local machine using git clone https://github.com/lorenzozamel/Backtesting-Trading-Strategies.git.
-Open the Jupyter Notebook file backtesting_trading_strategies.ipynb in Jupyter Notebook or Jupyter Lab.
+Open the Jupyter Notebook file Trading Strategies.ipynb in Jupyter Notebook or Jupyter Lab.
 Run the notebook cells to perform the backtesting and view the visualizations.
 
 ### Requirements
